@@ -1,0 +1,1255 @@
+[
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-26 19:03:00",
+    "balance": 18000,
+    "remarks": "SALARY + ADS"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-26 14:02:00",
+    "balance": 5000,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-25 01:00:00",
+    "balance": 5024,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-26 23:02:00",
+    "balance": 26000,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-26 15:06:00",
+    "balance": 20000,
+    "remarks": "SALARY + ADS"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-26 01:00:00",
+    "balance": 4987,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-27 19:00:00",
+    "balance": 15578,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-27 15:00:00",
+    "balance": 14000,
+    "remarks": "SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-27 01:00:00",
+    "balance": 5487,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-28 18:59:00",
+    "balance": 5000,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-12-28 18:59:00",
+    "balance": 10000,
+    "remarks": "ADS"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-28 01:00:00",
+    "balance": 5842,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-28 18:55:00",
+    "balance": 15000,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-28 18:55:00",
+    "balance": 15000,
+    "remarks": "SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-22 01:00:00",
+    "balance": 5248,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-21 22:52:00",
+    "balance": 20000,
+    "remarks": ""
+  },
+  {
+    "type": "ONE-CLICK REBATE",
+    "detail": "ONE CLICK REBATE",
+    "time": "2025-12-21 06:50:00",
+    "balance": 9,
+    "remarks": "ONE CLICK REBATE"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-21 17:42:00",
+    "balance": 15000,
+    "remarks": "SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-21 01:00:00",
+    "balance": 4985,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-19 21:15:00",
+    "balance": 10000,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-19 21:05:00",
+    "balance": 17000,
+    "remarks": ""
+  },
+  {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2025-12-19 21:06:00",
+    "balance": 10000,
+    "remarks": "ADS PAYMENT"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-19 21:05:00",
+    "balance": 12000,
+    "remarks": "SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-19 01:00:00",
+    "balance": 4953,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-18 22:50:00",
+    "balance": 23000,
+    "remarks": ""
+  },
+  {
+    "type": "INVITE WHEEL REWARD",
+    "detail": "INVITE WHEEL REWARD",
+    "time": "2025-12-18 11:53:00",
+    "balance": 901,
+    "remarks": "INVITE WHEEL REWARD"
+  },
+  {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2025-12-18 18:17:00",
+    "balance": 10000,
+    "remarks": "ADS"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-18 18:35:00",
+    "balance": 12000,
+    "remarks": "SALARY"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-18 13:27:00",
+    "balance": 4000,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-18 01:00:00",
+    "balance": 4893,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-17 22:40:00",
+    "balance": 26500,
+    "remarks": ""
+  },
+  {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2025-12-17 18:27:00",
+    "balance": 10000,
+    "remarks": "ADS PAYMENT"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-17 18:18:00",
+    "balance": 12000,
+    "remarks": "SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-17 01:00:00",
+    "balance": 4623,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-16 22:38:00",
+    "balance": 27500,
+    "remarks": ""
+  },
+  {
+    "type": "INVITE BONUS",
+    "detail": "INVITE BONUS",
+    "time": "2025-12-16 15:42:00",
+    "balance": 3600,
+    "remarks": "INVITE BONUS"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-16 01:00:00",
+    "balance": 4983,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-16 18:37:00",
+    "balance": 19000,
+    "remarks": "ADS + SALARY"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-15 22:59:00",
+    "balance": 25000,
+    "remarks": ""
+  },
+  {
+    "type": "INVITE WHEEL REWARD",
+    "detail": "INVITE WHEEL REWARD",
+    "time": "2025-12-15 16:14:00",
+    "balance": 801,
+    "remarks": "INVITE WHEEL REWARD"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-15 01:00:00",
+    "balance": 5018,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-15 17:30:00",
+    "balance": 20000,
+    "remarks": "ADS + SALARY"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-14 22:47:00",
+    "balance": 24000,
+    "remarks": ""
+  },
+  {
+    "type": "ONE-CLICK REBATE",
+    "detail": "ONE-CLICK REBATE",
+    "time": "2025-12-14 01:00:00",
+    "balance": 9,
+    "remarks": "ONE-CLICK REBATE"
+  },
+  {
+    "type": "INVITE BONUS",
+    "detail": "INVITE BONUS",
+    "time": "2025-12-14 18:24:00",
+    "balance": 4500,
+    "remarks": "AGENT INVITE BONUS"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-14 17:50:00",
+    "balance": 14500,
+    "remarks": "SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-14 01:00:00",
+    "balance": 4938,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-13 22:40:00",
+    "balance": 20000,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-12-13 18:23:00",
+    "balance": 200,
+    "remarks": "AGENT BONUS"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-13 17:25:00",
+    "balance": 15000,
+    "remarks": "SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-13 01:00:00",
+    "balance": 4837,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-12 22:43:00",
+    "balance": 2000,
+    "remarks": ""
+  },
+  {
+    "type": "INVITE BONUS",
+    "detail": "INVITE BONUS",
+    "time": "2025-12-12 19:55:00",
+    "balance": 2000,
+    "remarks": "AGENT INVITE BONUS"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-12 22:43:00",
+    "balance": 20000,
+    "remarks": ""
+  },
+  {
+    "type": "INVITE WHEEL REWARD",
+    "detail": "INVITE WHEEL REWARD",
+    "time": "2025-12-12 16:51:00",
+    "balance": 801,
+    "remarks": "INVITE WHEEL REWARD"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-12 19:34:00",
+    "balance": 15000,
+    "remarks": "SALARY"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-11 23:45:00",
+    "balance": 28500,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-11 17:44:00",
+    "balance": 14000,
+    "remarks": "HEAD AGENT SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-11 01:00:00",
+    "balance": 4538,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-12 01:00:00",
+    "balance": 4219,
+    "remarks": ""
+  },
+  {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2025-12-10 19:26:00",
+    "balance": 10000,
+    "remarks": "META ADS"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-10 22:26:00",
+    "balance": 28000,
+    "remarks": ""
+  },
+  {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2025-12-11 19:14:00",
+    "balance": 10000,
+    "remarks": "META ADS"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-10 18:08:00",
+    "balance": 14000,
+    "remarks": "HEAD AGENT SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-10 01:00:00",
+    "balance": 4329,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-09 21:30:00",
+    "balance": 38000,
+    "remarks": ""
+  },
+  {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2025-12-09 20:02:00",
+    "balance": 10000,
+    "remarks": "FOR ADS"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-09 19:56:00",
+    "balance": 12000,
+    "remarks": "YESTERDAY SALARY"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-09 18:55:00",
+    "balance": 12000,
+    "remarks": "HEAD AGENT SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-09 01:00:00",
+    "balance": 4217,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-07 23:28:00",
+    "balance": 17000,
+    "remarks": ""
+  },
+  {
+    "type": "ONE-CLICK REBATE",
+    "detail": "ONE CLICK REBATE",
+    "time": "2025-12-07 01:30:00",
+    "balance": 8,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-07 19:41:00",
+    "balance": 13000,
+    "remarks": "HEAD AGENT SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-07 01:00:00",
+    "balance": 3992,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-06 20:31:00",
+    "balance": 19000,
+    "remarks": ""
+  },
+  {
+    "type": "INVITE BONUS",
+    "detail": "INVITE BONUS",
+    "time": "2025-12-06 16:35:00",
+    "balance": 4500,
+    "remarks": "AGENT INVITE BONUS"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-06 16:22:00",
+    "balance": 11500,
+    "remarks": "HEAD AGENT SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-06 01:00:00",
+    "balance": 3968,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-05 21:30:00",
+    "balance": 16000,
+    "remarks": ""
+  },
+  {
+    "type": "INVITE WHEEL REWARD",
+    "detail": "INVITE WHEEL REWARD",
+    "time": "2025-12-05 18:10:00",
+    "balance": 301,
+    "remarks": "INVITE WHEEL REWARD"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-05 17:10:00",
+    "balance": 12000,
+    "remarks": "HEAD AGENT SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-05 01:00:00",
+    "balance": 3784,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-04 20:43:00",
+    "balance": 16000,
+    "remarks": ""
+  },
+  {
+    "type": "ONE-CLICK REBATE",
+    "detail": "ONE CLICK REBATE",
+    "time": "2025-12-04 13:36:00",
+    "balance": 13,
+    "remarks": "ONE CLICK REBATE"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-04 17:35:00",
+    "balance": 12000,
+    "remarks": "HEAD AGENT SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-04 01:00:00",
+    "balance": 3987,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-03 20:30:00",
+    "balance": 19000,
+    "remarks": ""
+  },
+  {
+    "type": "INVITE WHEEL REWARD",
+    "detail": "INVITE WHEEL REWARD",
+    "time": "2025-12-03 17:10:00",
+    "balance": 901,
+    "remarks": "INVITE WHEEL REWARD"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-03 16:59:00",
+    "balance": 13000,
+    "remarks": "HEAD AGENT SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-03 01:00:00",
+    "balance": 4011,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-02 21:30:00",
+    "balance": 18000,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-12-02 17:35:00",
+    "balance": 2000,
+    "remarks": "AGENT BONUS"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-02 17:29:00",
+    "balance": 13000,
+    "remarks": "HEAD AGENT SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-02 01:00:00",
+    "balance": 3865,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-01 20:07:00",
+    "balance": 20000,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "META ADDS",
+    "time": "2025-12-01 17:12:00",
+    "balance": 5000,
+    "remarks": "ADDS"
+  },
+  {
+    "type": "INVITE WHEEL REWARD",
+    "detail": "INVITE WHEEL REWARD",
+    "time": "2025-12-01 21:12:00",
+    "balance": 501,
+    "remarks": "INVITE WHEEL REWARD"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-01 17:00:00",
+    "balance": 15000,
+    "remarks": "HEAD AGENT SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-12-01 01:01:00",
+    "balance": 3717,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-30 22:43:00",
+    "balance": 20000,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-30 17:30:00",
+    "balance": 12000,
+    "remarks": "HEAD AGENT SALARY"
+  },
+  {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2025-11-30 16:40:00",
+    "balance": 5000,
+    "remarks": "ADDS"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-11-30 01:00:00",
+    "balance": 3175,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-29 22:40:00",
+    "balance": 18800,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-29 17:10:00",
+    "balance": 15000,
+    "remarks": "HEAD AGENT SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-11-29 01:00:00",
+    "balance": 3844,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-28 19:00:00",
+    "balance": 24000,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-11-28 01:00:00",
+    "balance": 4076,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-28 18:00:00",
+    "balance": 10800,
+    "remarks": "REMAINING SALARY"
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "META ADDS",
+    "time": "2025-11-28 17:46:00",
+    "balance": 5000,
+    "remarks": "META ADDS NORMAL"
+  },
+  {
+    "type": "INVITE WHEEL REWARD",
+    "detail": "INVITE WHEEL REWARD",
+    "time": "2025-11-28 17:16:00",
+    "balance": 500,
+    "remarks": "INVITE WHEEL REWARD"
+  },
+  {
+    "type": "INVITE BONUS",
+    "detail": "INVITE BONUS",
+    "time": "2025-11-28 17:10:00",
+    "balance": 3100,
+    "remarks": "INVITE BONUS"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-28 17:00:00",
+    "balance": 1200,
+    "remarks": "HEAD AGENT SALARY"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-27 21:55:00",
+    "balance": 5000,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-27 21:30:00",
+    "balance": 24000,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "META ADDS",
+    "time": "2025-11-27 21:00:00",
+    "balance": 5000,
+    "remarks": "FIX ADDS FUNDS"
+  },
+  {
+    "type": "INVITE BONUS",
+    "detail": "INVITE BONUS",
+    "time": "2025-11-27 20:30:00",
+    "balance": 1050,
+    "remarks": "INVITE BONUS"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-27 20:00:00",
+    "balance": 19000,
+    "remarks": "HEAD AGENT SALARY"
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-11-27 01:00:00",
+    "balance": 3977,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-26 17:50:00",
+    "balance": 8500,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "META ADDS",
+    "time": "2025-11-26 17:30:00",
+    "balance": 8500,
+    "remarks": "META ADDS 137948"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-26 17:00:00",
+    "balance": 24800,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-26 16:00:00",
+    "balance": 16500,
+    "remarks": "137948 HEAD AGENT SALARY"
+  },
+  {
+    "type": "AGENT COMMISSION",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-11-26 01:00:00",
+    "balance": 5103,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "DAILY ACTIVITY",
+    "time": "2025-11-25 15:20:00",
+    "balance": 3200,
+    "remarks": "137948 DAILY ACTIVITY"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-25 15:12:00",
+    "balance": 19864,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-25 15:00:00",
+    "balance": 15000,
+    "remarks": "137948 HEAD AGENT SALARY"
+  },
+  {
+    "type": "AGENT COMMISSION",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-11-25 01:00:00",
+    "balance": 4864,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-24 17:00:00",
+    "balance": 13600,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "DAILY ACTIVITY",
+    "time": "2025-11-24 16:40:00",
+    "balance": 5600,
+    "remarks": "137948 ACTIVITY"
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-11-24 16:30:00",
+    "balance": 8000,
+    "remarks": "META ADDS 137948"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-24 16:26:00",
+    "balance": 24673,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-24 16:00:00",
+    "balance": 21000,
+    "remarks": "137948 HEAD AGENT SALARY"
+  },
+  {
+    "type": "AGENT COMMISSION",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-11-24 01:10:00",
+    "balance": 3673,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-11-23 10:22:00",
+    "balance": 820,
+    "remarks": "AGENT BONUS"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-23 15:13:00",
+    "balance": 5000,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-23 15:05:00",
+    "balance": 33246,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "ADDS FUND",
+    "time": "2025-11-23 14:03:00",
+    "balance": 10000,
+    "remarks": "137948 ADDS FUND FOR 2 DAYS"
+  },
+  {
+    "type": "AGENT COMMISSION",
+    "detail": "AGENT COMMISSION",
+    "time": "2025-11-23 02:00:00",
+    "balance": 3246,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-23 13:01:00",
+    "balance": 25000,
+    "remarks": "137948 FIX SALARY"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-22 12:30:00",
+    "balance": 31100,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-11-22 12:02:00",
+    "balance": 6100,
+    "remarks": "137948 AGENT BONUS"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-22 12:21:00",
+    "balance": 25000,
+    "remarks": "137948 FIX SALARY"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-21 13:06:00",
+    "balance": 36598,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "ADDS FUNDS",
+    "time": "2025-11-21 13:00:00",
+    "balance": 10000,
+    "remarks": "ADDS FUNDS FOR 2 DAYS 137948"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-21 12:46:00",
+    "balance": 25000,
+    "remarks": "137948 FIX SALARY"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-20 12:45:00",
+    "balance": 33589,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-11-20 11:55:00",
+    "balance": 6500,
+    "remarks": "137948 BONUS"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-20 11:43:00",
+    "balance": 25000,
+    "remarks": "137948 FIX SALARY"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-19 11:43:00",
+    "balance": 30000,
+    "remarks": "WITHDRAW"
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-11-19 11:20:00",
+    "balance": 5000,
+    "remarks": "137948 ADDS FUND"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-19 10:48:00",
+    "balance": 25000,
+    "remarks": "137948 FIX SALARY"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-18 13:30:00",
+    "balance": 28653,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-18 11:50:00",
+    "balance": 25000,
+    "remarks": "137948 SALARY"
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "WEEKLY BONUS",
+    "time": "2025-11-17 13:00:00",
+    "balance": 12300,
+    "remarks": "137948 WEEKLY BONUS"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-17 12:47:00",
+    "balance": 25000,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-17 11:33:00",
+    "balance": 25000,
+    "remarks": "137948 SALARY"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-16 14:07:00",
+    "balance": 30820,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-11-16 11:16:00",
+    "balance": 4820,
+    "remarks": "137948"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-16 11:30:00",
+    "balance": 26000,
+    "remarks": "137948 SALARY"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-15 12:30:00",
+    "balance": 31500,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "ADDS FUND",
+    "time": "2025-11-15 11:30:00",
+    "balance": 5500,
+    "remarks": "ADDS FUND"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-15 11:30:00",
+    "balance": 26000,
+    "remarks": "FIX SALARY"
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WIDHRAW",
+    "time": "2025-11-14 13:00:00",
+    "balance": 27568,
+    "remarks": "WIDHRAW"
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-11-14 12:30:00",
+    "balance": 5634,
+    "remarks": "AGENT BONUS"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-14 12:30:00",
+    "balance": 23500,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-13 11:41:00",
+    "balance": 26750,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-11-13 11:38:00",
+    "balance": 5250,
+    "remarks": "DIRECT WIDHRAW"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-13 11:37:00",
+    "balance": 21500,
+    "remarks": "DIRECT WIDHRAW"
+  },
+  {
+    "type": "COMMISON",
+    "detail": "44",
+    "time": "2025-11-12 10:27:00",
+    "balance": 88,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WIDHRAW",
+    "time": "2025-11-12 03:10:00",
+    "balance": 24560,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-11-12 09:07:00",
+    "balance": 12300,
+    "remarks": "TO HIRE INFLUNCER"
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-11-04 07:04:00",
+    "balance": 8000,
+    "remarks": "LOYAL AGENT"
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-12 08:22:00",
+    "balance": 20000,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-11-12 08:18:00",
+    "balance": 4560,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-12 08:17:00",
+    "balance": 12000,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-11-11 13:15:00",
+    "balance": 23000,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2025-11-11 00:43:00",
+    "balance": 7890,
+    "remarks": ""
+  },
+  {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-11-11 06:08:00",
+    "balance": 15000,
+    "remarks": ""
+  }
+]
