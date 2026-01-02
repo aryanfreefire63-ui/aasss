@@ -1354,19 +1354,19 @@
     "stats": {
       "All": {
         "depositNumber": 569,
-        "depositAmount": 374223,
-        "numBettors": 14678,
-        "totalBet": 2983376,
+        "depositAmount": 374233,
+        "numBettors": 1437,
+        "totalBet": 1246595,
         "numFirstDeposit": 209,
-        "firstDepositAmount": 164975
+        "firstDepositAmount": 134959
       },
       "Tier 1": {
         "depositNumber": 223,
         "depositAmount": 127348,
-        "numBettors": 536,
-        "totalBet": 1592487,
+        "numBettors": 701,
+        "totalBet": 397816,
         "numFirstDeposit": 97,
-        "firstDepositAmount": 54375
+        "firstDepositAmount": 58761
       }
     },
     "uids": {
