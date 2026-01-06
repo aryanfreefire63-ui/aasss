@@ -1030,17 +1030,17 @@
       "All": {
         "depositNumber": 338,
         "depositAmount": 427750,
-        "numBettors": 503,
-        "totalBet": 983506,
-        "numFirstDeposit": 186,
-        "firstDepositAmount": 65890
+        "numBettors": 506,
+        "totalBet": 920658,
+        "numFirstDeposit": 69,
+        "firstDepositAmount": 19300
       },
       "Tier 1": {
         "depositNumber": 229,
         "depositAmount": 299850,
-        "numBettors": 301,
-        "totalBet": 623801.85,
-        "numFirstDeposit": 97,
+        "numBettors": 306,
+        "totalBet": 639858,
+        "numFirstDeposit": 338,
         "firstDepositAmount": 48500
       }
     },
