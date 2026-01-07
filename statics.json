@@ -1430,18 +1430,18 @@
       "All": {
         "depositNumber": 338,
         "depositAmount": 427750,
-        "numBettors": 543,
-        "totalBet": 905105,
-        "numFirstDeposit": 89,
-        "firstDepositAmount": 24980
+        "numBettors": 533,
+        "totalBet": 804655.69,
+        "numFirstDeposit": 160,
+        "firstDepositAmount": 63900
       },
       "Tier 1": {
         "depositNumber": 229,
         "depositAmount": 299850,
-        "numBettors": 309,
-        "totalBet": 604825,
+        "numBettors": 307,
+        "totalBet": 620690.2,
         "numFirstDeposit": 99,
-        "firstDepositAmount": 46550
+        "firstDepositAmount": 82
       }
     },
     "uids": {
