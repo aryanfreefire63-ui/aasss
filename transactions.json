@@ -1,6 +1,13 @@
 [
   {
     "type": "AGENT SALARY",
+    "detail": "dd",
+    "time": "2026-06-25 11:41:16",
+    "balance": 5000,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT SALARY",
     "detail": "Salary",
     "time": "2026-01-08 17:38:00",
     "balance": 15000,
