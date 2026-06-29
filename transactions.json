@@ -2,6 +2,13 @@
   {
     "type": "AGENT BONUS",
     "detail": "BONUS",
+    "time": "2026-06-28 10:27:00",
+    "balance": 2300,
+    "remarks": "AGENT BONUS"
+  },
+  {
+    "type": "AGENT BONUS",
+    "detail": "BONUS",
     "time": "2026-06-28 13:11:00",
     "balance": 3500,
     "remarks": "AGENT BONUS"
