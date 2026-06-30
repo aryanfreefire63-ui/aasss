@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "AGENT BONUS",
+    "time": "2026-06-29 14:13:00",
+    "balance": 6800,
+    "remarks": "AGENT SALARY"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "WITHDRAW",
     "time": "2026-06-27 15:51:00",
