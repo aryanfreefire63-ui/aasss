@@ -1,21 +1,21 @@
 {
-  "commission": 85215,
+  "commission": 12000,
   "direct": {
     "register": 632,
     "deposit_number": 524,
     "deposit_amount": 321490,
-    "first_deposit": 45000
+    "first_deposit": 450
   },
   "team": {
     "register": 1200,
     "deposit_number": 829,
     "deposit_amount": 542819,
-    "first_deposit": 52000
+    "first_deposit": 726
   },
   "promotion": {
-    "this_week": 60000,
-    "total_commission": 72518,
-    "direct_subordinates": 624,
+    "this_week": 62518,
+    "total_commission": 528140,
+    "direct_subordinates": 632,
     "team_subordinates": 1200
   },
   "invitation": {
