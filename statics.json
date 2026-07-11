@@ -2257,8 +2257,8 @@
         "depositAmount": 572180,
         "numBettors": 1264,
         "totalBet": 728150,
-        "numFirstDeposit": 5,
-        "firstDepositAmount": 613
+        "numFirstDeposit": 613,
+        "firstDepositAmount": 78000
       },
       "Tier 1": {
         "depositNumber": 312,
