@@ -2,6 +2,13 @@
   {
     "type": "AGENT COMMISON",
     "detail": "COMISSION",
+    "time": "2026-07-28 13:30:00",
+    "balance": 6500,
+    "remarks": ""
+  },
+  {
+    "type": "AGENT COMMISON",
+    "detail": "COMISSION",
     "time": "2026-07-27 11:46:00",
     "balance": 6500,
     "remarks": ""
