@@ -1,6 +1,13 @@
 [
   {
     "type": "AGENT BONUS",
+    "detail": "META ADDS",
+    "time": "2026-08-07 05:30:00",
+    "balance": 8500,
+    "remarks": "META ADDS 69290"
+  },
+  {
+    "type": "AGENT BONUS",
     "detail": "ADDS FUND",
     "time": "2026-08-07 14:03:00",
     "balance": 10000,
