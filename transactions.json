@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "69290 FIX SALARY",
+    "time": "2026-08-07 11:50:00",
+    "balance": 25000,
+    "remarks": ""
+  },
+  {
     "type": "AGENT COMMISON",
     "detail": "COMISSION",
     "time": "2026-08-06 09:49:00",
