@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "ADDS FUND",
+    "time": "2026-08-07 14:03:00",
+    "balance": 10000,
+    "remarks": "69290 ADDS FUND FOR 2 DAYS"
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "69290 FIX SALARY",
     "time": "2026-08-07 11:50:00",
