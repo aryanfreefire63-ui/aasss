@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMISSION",
+    "time": "2026-08-07 13:00:00",
+    "balance": 16845,
+    "remarks": ""
+  },
+  {
     "type": "AGENT BONUS",
     "detail": "META ADDS",
     "time": "2026-08-07 05:30:00",
