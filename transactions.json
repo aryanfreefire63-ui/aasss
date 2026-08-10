@@ -2,6 +2,13 @@
   {
     "type": "RED ENVELOPE",
     "detail": "RED ENVELOPE",
+    "time": "2026-08-10 00:38:00",
+    "balance": 25000,
+    "remarks": "ADDS FUND"
+  },
+  {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
     "time": "2026-08-10 01:36:00",
     "balance": 10000,
     "remarks": "META ADS"
