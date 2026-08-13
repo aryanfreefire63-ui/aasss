@@ -1,5 +1,12 @@
 [
   {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2026-08-13 00:38:00",
+    "balance": 10000,
+    "remarks": "150 VALID INVITES META ADS"
+  },
+  {
     "type": "INVITE BONUS",
     "detail": "INVITE BONUS",
     "time": "2026-08-13 03:41:00",
