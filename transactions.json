@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2026-08-13 01:40:00",
+    "balance": 7500,
+    "remarks": "AGENT INVITE BONUS"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "WITHDRAW",
     "time": "2026-08-13 06:48:00",
