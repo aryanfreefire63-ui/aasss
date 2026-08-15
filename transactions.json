@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2026-08-14 05:24:00",
+    "balance": 2300,
+    "remarks": "HEAD AGENT BONUS"
+  },
+  {
     "type": "ONE-CLICK REBATE",
     "detail": "ONE CLICK REBATE",
     "time": "2026-08-14 01:23:00",
