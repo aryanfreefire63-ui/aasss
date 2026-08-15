@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "SALARY",
+    "time": "2026-08-14 04:20:00",
+    "balance": 12000,
+    "remarks": ""
+  },
+  {
     "type": "INVITE WHEEL REWARD",
     "detail": "INVITE WHEEL REWARD",
     "time": "2026-08-14 06:22:00",
