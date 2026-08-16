@@ -3279,10 +3279,10 @@
     "stats": {
       "All": {
         "depositNumber": 1047,
-        "depositAmount": 1041,
-        "numBettors": 695,
-        "totalBet": 1279730,
-        "numFirstDeposit": 1573958.24,
+        "depositAmount": 1279730,
+        "numBettors": 1041,
+        "totalBet": 1573958.24,
+        "numFirstDeposit": 695,
         "firstDepositAmount": 767590
       },
       "Tier 1": {
