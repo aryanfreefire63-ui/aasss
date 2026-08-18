@@ -1,5 +1,12 @@
 [
   {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2026-08-17 03:23:00",
+    "balance": 12400,
+    "remarks": "ADS FUND FOR 2 DAYS"
+  },
+  {
     "type": "INVITE WHEEL REWARD",
     "detail": "INVITE WHEEL REWARD",
     "time": "2026-08-17 00:31:00",
