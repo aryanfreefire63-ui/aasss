@@ -1,5 +1,12 @@
 [
   {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2026-08-18 21:50:00",
+    "balance": 17000,
+    "remarks": "META ADS"
+  },
+  {
     "type": "INVITE BONUS",
     "detail": "INVITE BONUS",
     "time": "2026-08-18 15:43:00",
