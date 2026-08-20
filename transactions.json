@@ -1,5 +1,12 @@
 [
   {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2026-08-19 09:30:00",
+    "balance": 21000,
+    "remarks": ""
+  },
+  {
     "type": "ONE-CLICK REBATE",
     "detail": "ONE CLICK REBATE",
     "time": "2026-08-19 20:30:00",
