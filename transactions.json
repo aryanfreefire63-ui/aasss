@@ -1,5 +1,12 @@
 [
   {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2026-08-19 13:28:00",
+    "balance": 18000,
+    "remarks": "FB ADS"
+  },
+  {
     "type": "INVITE BONUS",
     "detail": "INVITE BONUS",
     "time": "2026-08-19 16:32:00",
