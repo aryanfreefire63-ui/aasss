@@ -3353,20 +3353,20 @@
     "date": "2026-08-18",
     "stats": {
       "All": {
-        "depositNumber": 895,
-        "depositAmount": 582219.43,
-        "numBettors": 1460,
-        "totalBet": 4480574.29,
-        "numFirstDeposit": 418,
-        "firstDepositAmount": 118226.93
+        "depositNumber": 1703,
+        "depositAmount": 1104318.76,
+        "numBettors": 2682,
+        "totalBet": 9738553.58,
+        "numFirstDeposit": 683,
+        "firstDepositAmount": 400691
       },
       "Tier 1": {
-        "depositNumber": 0,
-        "depositAmount": 0,
-        "numBettors": 0,
-        "totalBet": 0,
-        "numFirstDeposit": 0,
-        "firstDepositAmount": 0
+        "depositNumber": 683,
+        "depositAmount": 704681,
+        "numBettors": 904,
+        "totalBet": 1784381.16,
+        "numFirstDeposit": 309,
+        "firstDepositAmount": 400691
       }
     },
     "uids": {
