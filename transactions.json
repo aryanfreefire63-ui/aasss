@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT COMMISON",
+    "detail": "AGENT COMISSION",
+    "time": "2026-08-20 02:33:00",
+    "balance": 5613,
+    "remarks": ""
+  },
+  {
     "type": "WITHDRAW",
     "detail": "WITHDRAW",
     "time": "2026-08-19 12:34:00",
