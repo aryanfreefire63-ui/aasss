@@ -1,5 +1,12 @@
 [
   {
+    "type": "INVITE BONUS",
+    "detail": "INVITE BONUS",
+    "time": "2026-08-23 14:27:00",
+    "balance": 6000,
+    "remarks": ""
+  },
+  {
     "type": "ONE-CLICK REBATE",
     "detail": "ONE CLICK REBATE",
     "time": "2026-08-22 09:27:00",
