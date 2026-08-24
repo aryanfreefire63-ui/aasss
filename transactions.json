@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2026-08-23 12:17:00",
+    "balance": 4200,
+    "remarks": ""
+  },
+  {
     "type": "INVITE BONUS",
     "detail": "INVITE BONUS",
     "time": "2026-08-23 03:20:00",
