@@ -1,5 +1,5 @@
 {
-  "commission": 26849.56,
+  "commission": 23479.6,
   "direct": {
     "register": 420,
     "deposit_number": 714,
@@ -13,7 +13,7 @@
     "first_deposit": 274
   },
   "promotion": {
-    "this_week": 103581.37,
+    "this_week": 365114.37,
     "total_commission": 2348617.58,
     "direct_subordinates": 2946,
     "team_subordinates": 7183
