@@ -3536,12 +3536,12 @@
         "firstDepositAmount": 148340
       },
       "Tier 1": {
-        "depositNumber": 0,
-        "depositAmount": 0,
-        "numBettors": 0,
-        "totalBet": 0,
-        "numFirstDeposit": 0,
-        "firstDepositAmount": 0
+        "depositNumber": 152,
+        "depositAmount": 147690,
+        "numBettors": 468,
+        "totalBet": 654718.12,
+        "numFirstDeposit": 113,
+        "firstDepositAmount": 56000
       }
     },
     "uids": {
