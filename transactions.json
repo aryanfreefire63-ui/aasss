@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2026-08-25 13:15:00",
+    "balance": 4100,
+    "remarks": ""
+  },
+  {
     "type": "AGENT COMMISON",
     "detail": "AGENT COMISSION",
     "time": "2026-08-25 02:38:00",
